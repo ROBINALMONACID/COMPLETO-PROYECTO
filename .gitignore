@@ -1,0 +1,40 @@
+# Dependencies (en cada proyecto)
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+coverage/
+
+# Uploads (archivos subidos por usuarios, no commit)
+uploads/
+*.png
+*.jpg
+*.webp
+*.mp3
