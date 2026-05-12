@@ -1,4 +1,6 @@
+
 # Dependencies (en cada proyecto)
+
 node_modules/
 .pnp
 .pnp.js
@@ -31,10 +33,3 @@ Thumbs.db
 
 # Testing
 coverage/
-
-# Uploads (archivos subidos por usuarios, no commit)
-uploads/
-*.png
-*.jpg
-*.webp
-*.mp3
